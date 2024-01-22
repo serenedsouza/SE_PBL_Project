@@ -1,0 +1,1 @@
+In this project, I have used different datasets containing the carbon, electricity and meat consumption as well as the the epi score of recycling rate and use of renewable resources for different countries and using Power BI I have created a dashboard showing the analysis.  
